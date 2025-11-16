@@ -24,11 +24,11 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em vue.js, listando os principais seletores vue.js com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Gemini：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create a draw of a programer girl coding with references of The Big Bang Theory |
 
 ## ✨ Features
 
