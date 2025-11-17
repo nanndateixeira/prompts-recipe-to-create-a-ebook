@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src=".assets/A Fórmula Nerd para Dominar o Frontend.png"
     width="400"  
 />
 </p>
